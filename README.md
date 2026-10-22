@@ -7,8 +7,11 @@ Offering Testing as a service (TAAS); Specializing in web, mobile, & api testing
 Review a client's web application, assess the quality of their codebase, and perform all manner of testing in keeping with the scope of work (SOW) and rules of engagement (ROE)
 
 ## SERVICES OFFERED
-[] Web Application Quality Assurance (F.U.R.P.S)
-[] "AI Slop" Detection & Code Evaluation
-[] WCAG 2.x Evaluation (upon request, additional charges applicable)
-[] Penetration Testing (upon request, additional charges applicable)
+[ ] Web Application Quality Assurance (F.U.R.P.S) ($$ to be determined based on scope of work)
+
+[ ] "AI Slop" Detection & Code Evaluation ($40 flat rate)
+
+[ ] WCAG 2.x Evaluation (upon request, additional charges applicable)
+
+[ ] Penetration Testing (upon request, additional charges applicable)
 
