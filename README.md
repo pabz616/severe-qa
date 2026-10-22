@@ -1,2 +1,14 @@
+<img width="703" height="149" alt="severeqa_logo" src="https://github.com/user-attachments/assets/96b792c2-8e56-43a1-8bfc-59945b3b7cc1" />
+
 # severe-qa
-Repository for testing as a service
+Offering Testing as a service (TAAS); Specializing in web, mobile, & api testing
+
+## OBJECTIVE
+Review a client's web application, assess the quality of their codebase, and perform all manner of testing in keeping with the scope of work (SOW) and rules of engagement (ROE)
+
+## SERVICES OFFERED
+[] Web Application Quality Assurance (F.U.R.P.S)
+[] "AI Slop" Detection & Code Evaluation
+[] WCAG 2.x Evaluation (upon request, additional charges applicable)
+[] Penetration Testing (upon request, additional charges applicable)
+
